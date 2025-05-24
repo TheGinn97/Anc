@@ -1,0 +1,39 @@
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ANC Ward 12</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      color: white;
+    }
+
+    .background {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background: linear-gradient(to bottom, #ffcc00 33.3%, #000000 33.3%, #000000 66.6%, #007847 66.6%);
+    }
+
+    h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    }
+
+    .footer {
+      font-size: 1.5rem;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="background">
+    <h1>ANC Ward 12</h1>
+    <div class="footer">By cde Ike</div>
+  </div>
+</body>
+</html>
