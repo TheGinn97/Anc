@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ANC Ward 12 Amon Ngulele</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #ffffff;
+      color: #222;
+    }
+
+    header {
+      background-color: #007a3d;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .section h2 {
+      color: #007a3d;
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      background-color: #f2f2f2;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ANC Ward 12 Amon Ngulele</h1>
+  </header>
+
+  <section class="section">
+    <h2>Vision</h2>
+    <p>Our vision is to empower our community with unity, development, and progress driven by the people, for the people.</p>
+  </section>
+
+  <section class="section">
+    <h2>Announcements</h2>
+    <p>Stay tuned for important updates, meetings, and events in Ward 12.</p>
+  </section>
+
+  <section class="section">
+    <h2>Youth Hub</h2>
+    <p>Empowering the youth with resources, programs, and leadership opportunities for a better tomorrow.</p>
+  </section>
+
+  <section class="section">
+    <h2>Information</h2>
+    <p>Access public service info, community guidelines, and local development plans here.</p>
+  </section>
+
+  <section class="section">
+    <h2>Contact and Support</h2>
+    <p>Need assistance or want to get involved? Reach out to the Ward 12 support team at <a href="mailto:support@ward12.org">support@ward12.org</a>.</p>
+  </section>
+
+  <footer>
+    Site ownership: cde Ike Joe Slovo
+  </footer>
+
+</body>
+</html>
